@@ -1,0 +1,10 @@
+stocks:
+  # 一行一个股票代码
+  - "600519"
+  - "002165"
+  - "000858"
+configuration:
+  # 数据刷新时间
+  flush_time: 3
+  # 窗口透明度
+  WindowOpacity: 0.2
